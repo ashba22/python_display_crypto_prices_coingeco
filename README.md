@@ -1,4 +1,4 @@
-# python_display_crypto_prices_coingeco
+# python display crypto prices coingeco
 Display cryptocurrency prices using python and coingeco api
 
 
